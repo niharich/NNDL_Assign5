@@ -1,1 +1,3 @@
-# NNDL_Assign5
+Name : Niharika Cherukuri 
+700 No: 700739140 
+Subject: Neural Networks & Deep Learning
